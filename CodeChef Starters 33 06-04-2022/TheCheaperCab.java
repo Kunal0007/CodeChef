@@ -1,10 +1,8 @@
-====================================================The Cheaper Cab=======================================================
+// ====================================================The Cheaper Cab=======================================================
 
 import java.util.*;
-import java.lang.*;
-import java.io.*;
 
-public class Main
+public class TheCheaperCab
 {
 	public static void main(String[] args) {
 	    Scanner in = new Scanner(System.in);
